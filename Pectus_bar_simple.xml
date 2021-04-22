@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<SimscapeMultibodyImportXML version="2.0" xmlns="urn:mathworks:SimscapeMultibody:import" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<Created by="inkikim" on="04/07/21||15:58:08" using="Simscape Multibody Link Version 7.2" from="Autodesk Inventor 2021 (Build 250183000, 183)"/>
+<ModelUnits mass="lbmass" length="millimeter"/>
+<DataUnits mass="kilogram" length="centimeter"/>
+<RootAssembly name="Pectus-bar-simple.iam" uid="Pectus-bar-simple.iam_{974D9B66-4C03-94C6-790D-0AADB6FF5D45}" version="{3004FE9F-4976-225C-E380-9D70099201E7}">
+<AssemblyFile name="Pectus-bar-simple.iam" type="Inventor Assembly"/>
+<InstanceTree>
+<Instance name="Pectus bar:1" grounded="true" uid="Pectus bar:1" entityUid="Pectus bar.ipt_{F3B0572B-4D86-05B7-FFF4-7C8EB2EBC3AF}">
+<Transform>
+<Rotation>1 0 0 0 1 0 0 0 1</Rotation>
+<Translation>0 0 0</Translation>
+</Transform>
+</Instance>
+</InstanceTree>
+<Constraints>
+</Constraints>
+<Joints>
+</Joints>
+</RootAssembly>
+<Assemblies>
+</Assemblies>
+<Parts>
+<Part name="Pectus bar.ipt" uid="Pectus bar.ipt_{F3B0572B-4D86-05B7-FFF4-7C8EB2EBC3AF}" version="{E6B61188-819B-20F8-7194-C11A24CAA19D}">
+<PartFile name="Pectus bar.ipt" type="Inventor Part"/>
+<MassProperties>
+<Mass>1.8672489091569616e-08</Mass>
+<CenterOfMass>-0.0011778189365819931 0.010984550321436325 -0.024999999441206459</CenterOfMass>
+<Inertia>4.165250973388983e-12 2.0363882147940616e-10 2.0749286431518109e-10 0 0 -6.485811367136685e-13</Inertia>
+</MassProperties>
+<GeometryFile name="Pectus bar_ipt_17881b1c.STEP" type="STEP"/>
+<VisualProperties>
+<Ambient r="0.74901960784313726" g="0.74901960784313726" b="0.74901960784313726" a="1"/>
+<Diffuse r="0.74901960784313726" g="0.74901960784313726" b="0.74901960784313726" a="1"/>
+<Specular r="0" g="0" b="0" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.14999999999999999</Shininess>
+</VisualProperties>
+</Part>
+</Parts>
+</SimscapeMultibodyImportXML>
