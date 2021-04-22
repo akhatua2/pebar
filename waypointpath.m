@@ -1,5 +1,9 @@
 % TODO: import own model using importrobot(filename)
 robot = loadrobot('kinovaJacoJ2S7S300');
+% robot = importrobot('Pectus_bar_simple');
+% showdetails(robot);
+% show(robot);
+
 
 % Not required (Please delete when you import Pectus Bar and change the EndEffector)
 removeBody(robot,'j2s7s300_link_finger_tip_3');
