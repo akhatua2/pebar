@@ -1,6 +1,6 @@
 # pebar
 
-Please clone repository and open waypointspath.m
+Please clone repository and open ```waypointspath.m```
 
 If you run ```showdetails(robot)``` it will give you the rigidBodyTree of the robot which shows the body and joints of the robot. 
 
